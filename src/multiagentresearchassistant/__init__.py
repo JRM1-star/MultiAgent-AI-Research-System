@@ -1,2 +1,2 @@
 def main() -> None:
-    print("Hello from multiagentresearchassistant-video4!")
+    print("Hello from multiagentresearchassistant")
